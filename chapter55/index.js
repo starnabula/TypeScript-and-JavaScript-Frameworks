@@ -1,0 +1,1 @@
+// github.com/amehashi/thumbhash-node

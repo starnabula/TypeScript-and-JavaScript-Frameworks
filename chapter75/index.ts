@@ -1,0 +1,2 @@
+
+//pure function

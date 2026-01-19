@@ -1,8 +1,0 @@
-
-// function doSomething<T, U>(input: T): U {
-//     return
-// }
-
-// function mapArray<TItem, TResult>(arr: TItem[]): TResult[] {
-//     return arr.map()
-// }

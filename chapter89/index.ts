@@ -1,3 +1,0 @@
-//ถ้าใช้ zod สามารถใช้ z.infer<typeof Schema> เพื่ิอให้ type กับ schema sync กันอีนโนมีติ
-
-//https://zod.dev/?id=type-inference

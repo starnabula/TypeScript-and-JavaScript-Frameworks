@@ -1,2 +1,0 @@
-
-//const myCanvas = document.getElementById("mainCanvas") as HTMLCanvasElement;
